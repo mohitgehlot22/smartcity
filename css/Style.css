@@ -1,0 +1,393 @@
+*{
+    padding: 0px;
+    color: inherit !important;
+    text-decoration: none !important;
+    box-sizing: border-box !important;
+    scroll-padding-top: 190px !important;
+}
+a{
+  color: inherit !important;
+}
+.fs-30{
+    font-size: 30px; 
+}
+.py_66{
+  padding: 66px 0px !important;
+}
+.logosmartcity{
+    width: 107px;
+    height: 90px;
+}
+.pera {
+  font-size: 15px;
+}
+.fs_14{
+  font-size: 14px;
+}
+header{
+  z-index: 9999;
+}
+nav ul li {
+    padding: 0px 5px !important;
+    font-size: 15px;
+    font-weight: 700;
+}
+nav ul li a {
+    color: #004282 !important;
+}
+.book_btn {
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+    margin: 0px !important;
+}
+.call_us{
+    color: #f3842f !important;
+    border: 2px solid #f3842f !important;
+    font-size: 14px;
+    font-weight: 700;
+    display: inline;
+}
+
+/* slider css */
+
+
+
+  .owl-dots {
+    text-align: center;
+    padding-top: 15px;
+    position: absolute;
+    left: 50%;
+    bottom: 20px;
+    transform: translate(-50%,-0%);
+  }
+  .owl-dots button.owl-dot {
+    width: 13px;
+    height: 13px;
+    border-radius: 50%;
+    display: inline-block;
+    background: #ccc;
+    margin: 0 3px;
+  }
+ .owl-dots button.owl-dot.active {
+    background-color: #000;
+  }
+
+  /* slider  css */
+
+  .Site_visit{
+    padding: 35px !important;
+    background-color: #306598 !important;
+  }
+
+  .text_flid {
+    padding: 6px 12px 6px 20px !important;
+    height: 50px;
+  }
+  .text_flid::placeholder{
+      font-size: 14px;
+      font-weight: 500;
+      text-transform: uppercase;
+  }
+  .text_flid:focus {
+    border: none !important;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233);
+    outline: none !important;
+    border: 0px !important;
+  }
+  .book_free{
+    height: 50px;
+    padding: 10px 25px !important;
+    border: 0px !important;
+  }
+  .way_smartcity {
+    background: #f3f3f3 ;
+   }
+   .heding_color{
+    color: #306598 !important;
+   }
+   .why_smart_img{
+    width: 380px !important;
+    height: 141px;
+    display: inline !important;
+   }
+   .project_overview img{
+      height: 555px;
+   }
+   .project_overview_pera {
+    font-size: 14px;
+    word-spacing: 2px;
+    margin-bottom: 14px ;
+   }
+   .more_then_plot{
+     background: #f3f3f3;
+   }
+   .aments {
+       width: 102px !important;
+   }
+   .more_then_plot h5 {
+      font-size: 15px !important;
+   }
+   .logo_project{
+     width: 250px;
+     height: 245px;
+   }
+   table {
+    width: 800px; 
+   }
+   .table_haeder{
+      background-color: #306498;
+      padding: 8px 5px;
+   }
+   .Register_table_text{
+    font-size: 13.5px;
+   }
+   .table_color{
+    background: #306498;
+    padding: 10px 5px;
+   
+   }
+   .bor {
+    border-right: 1px solid #b0b0b052;
+   }
+   .fs_13{
+    font-size: 14px;
+   }
+   .size_plots {
+        background-color: #eaeaea;
+   }
+   .borders{
+    padding: 10px 5px;
+    border: 1px solid #b0b0b052;
+    height: 50px !important;
+   }
+   .unlock_price{
+    transition: 0.5s;
+   }
+   .unlock_price:hover{
+      background:#ce9600 !important;
+   }
+   .highlight_smartcity_img {
+    width: 982px !important;
+   }
+   .book_site_viisit{
+    box-shadow: 0 25px 50px -12px rgba(0,0,0,.5);
+    background-image: linear-gradient(315deg, #f0af00 0%, #ffc820 74%) !important;
+    padding: 15px 80px;
+    font-size: 23px;
+   }
+   .book_site_viisit:hover{
+    background: #ce9600;
+   }
+   .mohali_plots h3 {
+    font-size: 18px;
+    line-height: 25px;
+   }
+   .major{
+    font-size: 18px;
+    line-height: 25px;
+   }
+
+   .vidoe_section iframe {
+      width: 100%;
+      height: 320px;
+   }
+
+    .accordion-item {
+      border: 0px !important;
+    }
+    .accordion-header{
+      border-bottom: 2px solid black !important;
+      
+    }
+    .accordion-header h4{
+      font-size: 18px !important;
+      font-weight: 500 !important;
+      color: #000 !important;
+    }
+   .accordion-button:not(.collapsed) {
+        background: inherit !important;
+   }
+   .accordion-button:focus {
+      box-shadow: none !important;
+   }
+   .animetion img{
+      width: 64px !important;
+      height: 64px !important;
+      display: inline !important; 
+   }
+   .owl-item {
+      margin: 0px !important;
+   }
+   .owl-prev{
+      position: absolute;
+      top: 0px;
+      left: -25px;
+   }
+   .owl-next span {
+      font-size: 45px;
+   }
+   .owl-prev span {
+    font-size: 45px;
+ }
+   .owl-next {
+    position: absolute;
+    top: -0px;
+    right: -50px;
+   }
+   .animetion .owl-dots{
+      top: 100px;
+   }
+   .gallery img {
+      width: 262px !important;
+      height: 250px;
+   }
+  .lb-container img {
+      width: 80% ;
+      height: 80%;
+   }
+   .home_loan img {
+      width: 135px;
+      height: 134px;
+   }
+   .schedule img {
+      width: 550px;
+      height: 343px;
+   }
+
+   .smartcity_Footer {
+    padding: 98px 0px;
+    background-color: #306598;
+ }
+  .smartcity_Footer .Launch {
+    font-size: 23px !important;
+    letter-spacing: 2px;
+    line-height: 45px;
+ }
+  .smartcity_Footer .site {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+ }
+  .accordion-button {
+    z-index: 0;
+  }
+  .enquiry_pera {
+      color: #aeb4b9;
+  }
+  .modal input {
+    border: none !important;
+    background: #f0f4f5;
+    height: 40px;
+  }
+  .modal input::placeholder{
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #aeb4b9; 
+  }
+  .modal input:focus {
+      outline: none !important;
+      box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233);
+  }
+   textarea::placeholder{
+    text-transform: uppercase;
+    font-size: 12px;
+    color: black !important; 
+  }
+  .modal textarea{
+    background:#f0f4f5;
+    height: 170px;
+    border: 1px solid #9ea0a0;
+  }
+  .modal textarea:focus {
+    outline: none !important;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233);
+}
+.enbt {
+  position: fixed;
+  top: 35%;
+  right: 11px;
+  z-index: 777;
+  opacity: 1;
+}
+.enbt a {
+  color: #fff;
+  padding: 1px;
+  font-size: 0;
+  display: block;
+  margin: 6px 5px;
+  position: relative;
+}
+.enbt a span {
+  display: block;
+  position: absolute;
+  top: 8px;
+  font-family: 'adobe-garamond-pro';
+  text-align: left;
+  background: #fff;
+  color: #1e2f51;
+  z-index: -1;
+  right: 6px;
+  border-radius: 20px 0px 0px 20px;
+  padding: 7px 0 3px 22px;
+  font-size: 1.1rem;
+  transform: translateX(0px);
+  visibility: hidden;
+  opacity: 0;
+  border: 1px solid #d9d9d9;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 11px;
+  text-align: center;
+  transition: 0.9s;
+}
+.enbt a>img {
+    display: inline-block;
+    vertical-align: middel;
+    width: 45px;
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;   
+   transition: all 500ms ease-in-out !important;
+}
+.enbt a>img:hover{
+    transform: rotate(360deg);
+}
+.enbt a:hover span {
+  opacity: 1;
+  visibility: visible;
+  transform: translateX(-27px);
+}
+.enbt a:first-child span {
+  width: 175px;
+  padding: 5px 0px;
+}
+.enbt a:nth-child(4) span {
+  width: 152px;
+  padding: 5px 0px;
+}
+.enbt a:nth-child(3) span {
+  width: 152px;
+  padding: 5px 0px;
+
+}
+.enbt a:nth-child(2) span {
+  width: 115px;
+  padding: 5px 0px;
+
+}
+.enbt a:nth-child(5) span {
+  width: 80px;
+  padding: 5px 0px;
+
+}
+.enbt a:nth-child(6) span {
+  width: 200px;
+  padding: 5px 0px;
+}
+.pera_term{
+  font-size: 15px;
+  margin-bottom: 11px;
+  color: #565656;
+  line-height: 30px;
+}
